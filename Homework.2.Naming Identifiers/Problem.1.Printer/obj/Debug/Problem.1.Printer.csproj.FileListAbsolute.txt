@@ -1,0 +1,6 @@
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework.2.Naming Identifiers\Problem.1.Printer\bin\Debug\Problem.1.Printer.exe.config
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework.2.Naming Identifiers\Problem.1.Printer\bin\Debug\Problem.1.Printer.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework.2.Naming Identifiers\Problem.1.Printer\bin\Debug\Problem.1.Printer.pdb
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework.2.Naming Identifiers\Problem.1.Printer\obj\Debug\Problem.1.Printer.csprojResolveAssemblyReference.cache
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework.2.Naming Identifiers\Problem.1.Printer\obj\Debug\Problem.1.Printer.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\Homework.2.Naming Identifiers\Problem.1.Printer\obj\Debug\Problem.1.Printer.pdb

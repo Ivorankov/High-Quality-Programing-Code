@@ -1,0 +1,6 @@
+C:\Users\kjkjh\Downloads\High-Quality-Code-master\High-Quality-Code-master\04. Code Documentation and Comments\Homework\bin\Debug\StringExtensions.dll
+C:\Users\kjkjh\Downloads\High-Quality-Code-master\High-Quality-Code-master\04. Code Documentation and Comments\Homework\bin\Debug\StringExtensions.pdb
+C:\Users\kjkjh\Downloads\High-Quality-Code-master\High-Quality-Code-master\04. Code Documentation and Comments\Homework\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+C:\Users\kjkjh\Downloads\High-Quality-Code-master\High-Quality-Code-master\04. Code Documentation and Comments\Homework\obj\Debug\StringExtensions.dll
+C:\Users\kjkjh\Downloads\High-Quality-Code-master\High-Quality-Code-master\04. Code Documentation and Comments\Homework\obj\Debug\StringExtensions.pdb
+C:\Users\kjkjh\Downloads\High-Quality-Code-master\High-Quality-Code-master\04. Code Documentation and Comments\Homework\bin\Debug\StringExtensions.XML
