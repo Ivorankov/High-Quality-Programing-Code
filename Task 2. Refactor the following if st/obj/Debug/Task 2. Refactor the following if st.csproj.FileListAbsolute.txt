@@ -1,0 +1,8 @@
+c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 2. Refactor the following if st\bin\Debug\Task_2.Refactor_the_following_if_st.exe.config
+c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 2. Refactor the following if st\bin\Debug\Task_2.Refactor_the_following_if_st.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 2. Refactor the following if st\bin\Debug\Task_2.Refactor_the_following_if_st.pdb
+c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 2. Refactor the following if st\bin\Debug\Task_1.Class_Chef_in_CSharp.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 2. Refactor the following if st\bin\Debug\Task_1.Class_Chef_in_CSharp.pdb
+c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 2. Refactor the following if st\obj\Debug\Task 2. Refactor the following if st.csprojResolveAssemblyReference.cache
+c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 2. Refactor the following if st\obj\Debug\Task_2.Refactor_the_following_if_st.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 2. Refactor the following if st\obj\Debug\Task_2.Refactor_the_following_if_st.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1. Class Chef in CSharp", "Task 1. Class Chef in CSharp\Task 1. Class Chef in CSharp.csproj", "{AFAE3C1E-BB8E-4601-83A4-428A900BE73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2. Refactor the following if st", "Task 2. Refactor the following if st\Task 2. Refactor the following if st.csproj", "{D272739B-72F2-49B2-94EE-3D2174C6C905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3. Refactor the following loop", "Task 3. Refactor the following loop\Task 3. Refactor the following loop.csproj", "{3A19EE0D-2168-4EA1-B320-BB67BBFB86EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFAE3C1E-BB8E-4601-83A4-428A900BE73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAE3C1E-BB8E-4601-83A4-428A900BE73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAE3C1E-BB8E-4601-83A4-428A900BE73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAE3C1E-BB8E-4601-83A4-428A900BE73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D272739B-72F2-49B2-94EE-3D2174C6C905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D272739B-72F2-49B2-94EE-3D2174C6C905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D272739B-72F2-49B2-94EE-3D2174C6C905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D272739B-72F2-49B2-94EE-3D2174C6C905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A19EE0D-2168-4EA1-B320-BB67BBFB86EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A19EE0D-2168-4EA1-B320-BB67BBFB86EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A19EE0D-2168-4EA1-B320-BB67BBFB86EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A19EE0D-2168-4EA1-B320-BB67BBFB86EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
