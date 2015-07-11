@@ -1,5 +1,0 @@
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 3. Refactor the following loop\bin\Debug\Task_3.Refactor_the_following_loop.exe.config
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 3. Refactor the following loop\bin\Debug\Task_3.Refactor_the_following_loop.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 3. Refactor the following loop\bin\Debug\Task_3.Refactor_the_following_loop.pdb
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 3. Refactor the following loop\obj\Debug\Task_3.Refactor_the_following_loop.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 3. Refactor the following loop\obj\Debug\Task_3.Refactor_the_following_loop.pdb

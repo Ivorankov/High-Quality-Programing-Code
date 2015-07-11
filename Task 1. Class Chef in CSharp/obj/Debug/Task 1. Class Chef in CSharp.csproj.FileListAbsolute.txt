@@ -1,6 +1,0 @@
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 1. Class Chef in CSharp\bin\Debug\Task_1.Class_Chef_in_CSharp.exe.config
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 1. Class Chef in CSharp\obj\Debug\Task 1. Class Chef in CSharp.csprojResolveAssemblyReference.cache
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 1. Class Chef in CSharp\bin\Debug\Task_1.Class_Chef_in_CSharp.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 1. Class Chef in CSharp\bin\Debug\Task_1.Class_Chef_in_CSharp.pdb
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 1. Class Chef in CSharp\obj\Debug\Task_1.Class_Chef_in_CSharp.exe
-c:\users\kjkjh\documents\visual studio 2013\Projects\Control Flow, Conditional Statements and Loops\Task 1. Class Chef in CSharp\obj\Debug\Task_1.Class_Chef_in_CSharp.pdb
