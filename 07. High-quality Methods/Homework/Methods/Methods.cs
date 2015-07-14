@@ -1,6 +1,7 @@
 ﻿namespace Methods
 {
     using System;
+    using System.Text;
 
     public class Methods
     {
@@ -96,20 +97,21 @@
             return maxElement;
         }
 
-        public static void PrintAsNumber(object number, string format)
+        public static string PrintObjectInFormat(object obj, string format)
         {
-            if (format == "f")
-            {
-                Console.WriteLine("{0:f2}", number);
-            }
-            else if (format == "%")
-            {
-                Console.WriteLine("{0:p0}", number);
-            }
-            else if (format == "r")
-            {
-                Console.WriteLine("{0,8}", number);
-            }
+            StringBuilder result = new StringBuilder();
+            result.AppendFormat(format, obj);
+            return result.ToString();
+            //    Console.WriteLine("{0:f2}", obj);
+            //}
+            //else if (format == "%")
+            //{
+            //    Console.WriteLine("{0:p0}", obj);
+            //}
+            //else if (format == "r")
+            //{
+            //    Console.WriteLine("{0,8}", obj);
+            //}
         }
 
         public static double CalcDistance(
@@ -134,10 +136,12 @@
             Console.WriteLine(DigitAsWord(5));
 
             Console.WriteLine(FindMax(5, -1, 3, 2, 14, 2, 3));
-
-            PrintAsNumber(1.3, "f");
-            PrintAsNumber(0.75, "%");
-            PrintAsNumber(2.30, "r");
+            string format = "{0:f2}";
+            Console.WriteLine(PrintObjectInFormat(1.3, format));
+            format = "{0:p0}";
+            Console.WriteLine(PrintObjectInFormat(0.75, format));
+            format = "{0,8}";
+            Console.WriteLine(PrintObjectInFormat(2.30, format));
 
             bool horizontal, vertical;
             Console.WriteLine(CalcDistance(3, -1, 3, 2.5, out horizontal, out vertical));
