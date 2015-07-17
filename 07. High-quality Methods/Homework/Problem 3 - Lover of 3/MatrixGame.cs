@@ -143,7 +143,7 @@
             return inRange;
         }
 
-        private static void GenerateMatrix(int[] sizeOfMatrix, int row, int[,] playField)
+        private static void GenerateMatrix(int[] sizeOfMatrix, int row, int[,] matrix)
         {
             // Top left number in the matrix
             int number = (row - 1) * 3;
@@ -152,7 +152,7 @@
                 int finalNum = number;
                 for (int currentCol = 0; currentCol < sizeOfMatrix[1]; currentCol++)
                 {
-                    playField[currentRow, currentCol] = finalNum;
+                    matrix[currentRow, currentCol] = finalNum;
                     finalNum += 3;
                 }
                 number -= 3;

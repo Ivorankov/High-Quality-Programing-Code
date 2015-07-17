@@ -22,8 +22,8 @@
             {
                 for (int i = 0; i < item.Length; i++)
                 {
-                    string twentyTreeDigit = item.Substring(i, 1);
-                    int number = numbersIn23NumeralSystem.IndexOf(twentyTreeDigit);
+                    string digitIn23NumeralSyst = item.Substring(i, 1);
+                    int number = numbersIn23NumeralSystem.IndexOf(digitIn23NumeralSyst);
 
                     decimalNum *= NumeralSystem;
                     decimalNum += number;
