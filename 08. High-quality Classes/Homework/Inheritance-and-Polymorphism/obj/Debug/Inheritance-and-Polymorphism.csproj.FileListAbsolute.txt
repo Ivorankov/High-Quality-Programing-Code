@@ -1,5 +1,0 @@
-C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
-C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
-C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
-C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
-C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb
