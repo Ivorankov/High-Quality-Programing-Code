@@ -1,0 +1,9 @@
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Unit Testing Homework\DeckTest\bin\Debug\DeckTest.dll
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Unit Testing Homework\DeckTest\bin\Debug\DeckTest.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Unit Testing Homework\DeckTest\bin\Debug\Santase.Logic.dll
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Unit Testing Homework\DeckTest\bin\Debug\Santase.Logic.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Unit Testing Homework\DeckTest\obj\Debug\DeckTest.csprojResolveAssemblyReference.cache
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Unit Testing Homework\DeckTest\obj\Debug\DeckTest.dll
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Unit Testing Homework\DeckTest\obj\Debug\DeckTest.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Unit Testing Homework\DeckTest\bin\Debug\nunit.framework.dll
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Unit Testing Homework\DeckTest\bin\Debug\nunit.framework.xml

@@ -1,0 +1,6 @@
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare simple M\bin\Debug\Compare simple M.exe.config
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare simple M\bin\Debug\Compare simple M.exe
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare simple M\bin\Debug\Compare simple M.pdb
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare simple M\obj\Debug\Compare simple M.csprojResolveAssemblyReference.cache
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare simple M\obj\Debug\Compare simple M.exe
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare simple M\obj\Debug\Compare simple M.pdb

@@ -1,0 +1,7 @@
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(2)\High-Quality-Code-master\12. Test-Driven Development\TDD\bin\Debug\TDD.dll
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(2)\High-Quality-Code-master\12. Test-Driven Development\TDD\bin\Debug\TDD.pdb
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(2)\High-Quality-Code-master\12. Test-Driven Development\TDD\bin\Debug\Poker.exe
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(2)\High-Quality-Code-master\12. Test-Driven Development\TDD\bin\Debug\Poker.pdb
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(2)\High-Quality-Code-master\12. Test-Driven Development\TDD\obj\Debug\TDD.csprojResolveAssemblyReference.cache
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(2)\High-Quality-Code-master\12. Test-Driven Development\TDD\obj\Debug\TDD.dll
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(2)\High-Quality-Code-master\12. Test-Driven Development\TDD\obj\Debug\TDD.pdb

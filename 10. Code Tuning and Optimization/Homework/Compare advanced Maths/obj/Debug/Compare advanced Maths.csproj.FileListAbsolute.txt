@@ -1,0 +1,6 @@
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare advanced Maths\bin\Debug\Compare advanced Maths.exe.config
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare advanced Maths\bin\Debug\Compare advanced Maths.exe
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare advanced Maths\bin\Debug\Compare advanced Maths.pdb
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare advanced Maths\obj\Debug\Compare advanced Maths.exe
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare advanced Maths\obj\Debug\Compare advanced Maths.pdb
+C:\Users\kjkjh\Downloads\High-Quality-Code-master(1)\High-Quality-Code-master\10. Code Tuning and Optimization\Homework\Compare advanced Maths\obj\Debug\Compare advanced Maths.csprojResolveAssemblyReference.cache

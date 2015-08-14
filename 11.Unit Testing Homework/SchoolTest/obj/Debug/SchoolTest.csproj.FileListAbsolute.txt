@@ -1,0 +1,7 @@
+c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\SchoolTest\bin\Debug\SchoolTest.dll
+c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\SchoolTest\bin\Debug\SchoolTest.pdb
+c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\SchoolTest\bin\Debug\Task_1.Students_and_courses.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\SchoolTest\bin\Debug\Task_1.Students_and_courses.pdb
+c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\SchoolTest\obj\Debug\SchoolTest.csprojResolveAssemblyReference.cache
+c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\SchoolTest\obj\Debug\SchoolTest.dll
+c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\SchoolTest\obj\Debug\SchoolTest.pdb
