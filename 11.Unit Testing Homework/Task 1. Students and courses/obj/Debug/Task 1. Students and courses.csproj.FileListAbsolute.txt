@@ -4,3 +4,6 @@ c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\Task 
 c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\Task 1. Students and courses\obj\Debug\Task 1. Students and courses.csprojResolveAssemblyReference.cache
 c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\Task 1. Students and courses\obj\Debug\Task_1.Students_and_courses.exe
 c:\users\kjkjh\documents\visual studio 2013\Projects\Unit Testing Homework\Task 1. Students and courses\obj\Debug\Task_1.Students_and_courses.pdb
+C:\Users\kjkjh\Documents\GitHub\High-Quality-Programing-Code\11.Unit Testing Homework\Task 1. Students and courses\bin\Debug\Task_1.Students_and_courses.exe.config
+C:\Users\kjkjh\Documents\GitHub\High-Quality-Programing-Code\11.Unit Testing Homework\Task 1. Students and courses\obj\Debug\Task_1.Students_and_courses.exe
+C:\Users\kjkjh\Documents\GitHub\High-Quality-Programing-Code\11.Unit Testing Homework\Task 1. Students and courses\obj\Debug\Task_1.Students_and_courses.pdb

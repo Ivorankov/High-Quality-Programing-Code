@@ -1,0 +1,1 @@
+C:\Users\kjkjh\Documents\GitHub\High-Quality-Programing-Code\08. High-quality Classes\Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
